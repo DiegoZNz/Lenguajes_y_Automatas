@@ -43,5 +43,3 @@ if __name__ =='__main__':
     puerto = [None] * n
     print("Matriz de puertos: ")
     kColoreable(g, puerto, k, 0, n)
-
-
