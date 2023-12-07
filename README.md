@@ -3,6 +3,7 @@
 Proyectos realizados en la materia de Lenguajes y Autómatas, del 7mo cuatrimestre de la carrera de Ingeniería en Sistemas Computacionales de la Universidad Politécnica de Querétaro
 
 **Calificación final** ⭐
+
 10
 
 **Temas estudiados** 📚
