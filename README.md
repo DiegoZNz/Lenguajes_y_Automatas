@@ -2,12 +2,30 @@
  
 Proyectos realizados en la materia de Lenguajes y Autómatas, del 7mo cuatrimestre de la carrera de Ingeniería en Sistemas Computacionales de la Universidad Politécnica de Querétaro
 
-La calificación del primer parcial obtenida en la materia fue de 10
+**Calificación final** ⭐
+10
 
-Los temas abordados en la materia incluyen:
+**Temas estudiados** 📚
 
-* Desarrollar algoritmos de grafos para la búsqueda del camino mínimo
-* Implementar el Algoritmo de Fisher-Yates
-* El Algoritmo de Boyer-Moore
-* El Algoritmo de Kruskal
-* Aplicar técnicas de Backtracking
+* Desarrollo de algoritmos de grafos para búsqueda de caminos mínimos
+* Implementación del algoritmo de barajado de Fisher-Yates
+* Algoritmo de búsqueda de cadenas de Boyer-Moore
+* Algoritmo de árbol recubridor mínimo de Kruskal
+* Técnicas de Backtracking
+* Árboles binarios de búsqueda, Árboles AVL y Árboles Splay
+* Encriptadores y desencriptadores
+
+
+**Aprendizajes** 💡
+
+Esta materia me permitió profundizar en:
+
+* Estructuras de datos avanzadas
+* Algoritmos de optimización
+* Teoría de grafos
+* Compresión de la información
+
+
+Los proyectos integradores aplicaron estos conceptos para resolver problemas computacionales relacionados con procesamiento de textos, compresión de archivos, encriptación, planificación de tareas y análisis de redes.
+
+Estos conocimientos contribuirán en mi formación como desarrollador de software al diseñar soluciones computacionales eficientes.
